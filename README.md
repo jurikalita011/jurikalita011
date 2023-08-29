@@ -1,5 +1,8 @@
-<img height="300px" width="500px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoeyB9epNKXmXxj3NwIR4ve3uKASQb0LmB7A&usqp=CAU" />
+
 ### Hi👋 I am Juri Kalita
+<hr/>
+
+<img height="300px" width="500px" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-javascript-developer-3573766-2995359.mp4?h=700" />
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
