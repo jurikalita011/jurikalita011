@@ -2,7 +2,7 @@
 ### Hi👋 I am Juri Kalita
 <hr/>
 
-<img height="300px" width="500px" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/female-javascript-developer-3573766-2995359.mp4?h=700" />
+<img height="300px" width="500px" src="https://im.ezgif.com/tmp/ezgif-1-41e8a1affa.gif" />
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
