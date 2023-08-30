@@ -4,7 +4,8 @@
 
 
 
-# 💫 About Me: Aspiring Full Stack Developer,dedicated to creating dynamic and user-centric web applications that seamlessly integrate front-end and back-end technologies. 
+# 💫 About Me: 
+<div margin:"auto">Aspiring Full Stack Developer,dedicated to creating dynamic and user-centric web applications that seamlessly integrate front-end and back-end technologies.</div> 
 🔭 I’m currently working on Node js, Express Js<br>👯 I’m looking to collaborate on Mern Stack Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Node Js<br>💬 Ask me about React<br>⚡ Fun fact : Source code affects search engine ranking.
 
 
