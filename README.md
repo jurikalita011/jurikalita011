@@ -2,10 +2,10 @@
 ### Hi👋 I am Juri Kalita
 <hr/>
 
-<img height="300px" width="500px" src="https://im.ezgif.com/tmp/ezgif-1-41e8a1affa.gif" />
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
+# 💫 About Me: Aspiring Full Stack Developer,dedicated to creating dynamic and user-centric web applications that seamlessly integrate front-end and back-end technologies. 
+🔭 I’m currently working on Node js, Express Js<br>👯 I’m looking to collaborate on Mern Stack Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Node Js<br>💬 Ask me about React<br>⚡ Fun fact : Source code affects search engine ranking.
 
 
 ## 🌐 Socials:
