@@ -6,7 +6,7 @@
 
 # 💫 About Me: 
 
-🔭 I’m currently working on Node js, Express Js<br>👯 I’m looking to collaborate on Mern Stack Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Node Js<br>💬 Ask me about React<br>⚡ Fun fact : Source code affects search engine ranking.
+🔭 I’m currently working on React Typescript, Node js, Express Js<br>👯 I’m looking to collaborate on Mern Stack Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Next Js<br>💬 Ask me about React<br>⚡ Fun fact : Source code affects search engine ranking.
 
 
 ## 🌐 Socials:
